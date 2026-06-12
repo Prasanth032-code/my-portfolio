@@ -26,6 +26,9 @@ informed decision-making through technology and analytics.
   <p>🔗 <a href="https://www.linkedin.com/in/prasanth-m-011257154/" target="_blank" rel="noopener noreferrer">
     LinkedIn Profile
   </a></p>
+   <p>🔗 <a href="https://github.com/Prasanth032-code/" target="_blank" rel="noopener noreferrer">
+    GitHub Profile
+  </a></p>
 </div>
 
       <div className="btn-group">
@@ -37,7 +40,7 @@ informed decision-making through technology and analytics.
           View Projects
         </a>
 
-       <a href="/resume.pdf" download className="btn">
+       <a href="/PRASANTH_MURUGAN_resume.pdf" download className="btn">
          Download Resume
        </a>
       </div>
