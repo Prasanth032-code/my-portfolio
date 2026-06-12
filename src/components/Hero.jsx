@@ -7,13 +7,15 @@ export default function Hero() {
       <h1>Prasanth Murugan</h1>
 
       <h3>
-        Senior Software Engineer | Data Engineer | Backend Engineer
+          Backend Engineer | Software Developer | Analytics Professional
       </h3>
 
       <p>
-        5+ years of experience building scalable backend systems,
-        ETL pipelines, microservices, and cloud-native applications
-        using Java, Python, AWS, and Kubernetes.
+        Experienced Software Engineer specialising in backend development,
+enterprise applications, and cloud-based technologies. Combining 5 years of
+software engineering experience with a Master's in Business Analytics to
+deliver data-driven solutions, optimise business processes, and support
+informed decision-making through technology and analytics.
       </p>
 
       <Metrics />
