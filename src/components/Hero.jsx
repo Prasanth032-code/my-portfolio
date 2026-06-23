@@ -7,7 +7,7 @@ export default function Hero() {
       <h1>Prasanth Murugan</h1>
 
       <h3>
-          Backend Engineer | Software Developer | Analytics Professional
+           Software Developer | Analytics Professional
       </h3>
 
       <p>
