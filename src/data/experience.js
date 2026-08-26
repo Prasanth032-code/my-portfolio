@@ -1,6 +1,6 @@
 export const experience = [
   {
-    company: 'Synergi Design',
+    company: 'Synergi Design - Medical Audits',
     role: 'Senior Software Engineer',
     period: 'July 2024 – Present',
     points: [
