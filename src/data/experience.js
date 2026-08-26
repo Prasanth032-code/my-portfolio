@@ -14,20 +14,20 @@ export const experience = [
     ]
   },
   {
-    company: 'Infosys',
-    role: 'Senior System Engineer',
-    period: 'July 2021 – Dec 2023',
-    points: [
-    'Developed and maintained SAP ABAP-based enterprise applications in regulated production environments',
-    'Delivered 30+ RICEF objects (Reports, Interfaces, Conversions, Enhancements, Forms) following strict SDLC and compliance standards',
-    'Designed and implemented ABAP reports and interfaces for cross-system business data processing and integration',
-    'Performed SQL tuning and ABAP performance optimisation for high-volume transactional systems',
-    'Supported unit testing, regression testing, and UAT activities for SAP deliverables',
-    'Managed production support activities including incident resolution, transport deployment, and post-release validation',
-    'Collaborated with global business and technical teams to translate requirements into SAP technical solutions',
-    'Mentored junior developers on ABAP development standards, debugging techniques, and performance best practices'
-    ]
-  },
+  company: 'Infosys',
+  role: 'Senior System Engineer',
+  period: 'July 2021 – Dec 2023',
+  points: [
+    'Developed and maintained enterprise backend applications using Java, SQL, and enterprise technologies in regulated production environments',
+    'Delivered 30+ enterprise development objects and system enhancements supporting business-critical workflows',
+    'Designed backend solutions and system integrations for cross-system business data processing and reliable data exchange',
+    'Optimised SQL queries and application logic to improve performance across high-volume transactional systems',
+    'Supported unit testing, regression testing, UAT, production releases, and post-release validation',
+    'Managed production support activities including incident resolution, debugging, and system stability',
+    'Collaborated with global business, technical, and cross-functional teams to translate requirements into reliable software solutions',
+    'Mentored junior developers on clean coding, debugging, and performance optimisation best practices'
+  ]
+},
   {
     company: 'FinAGG Technologies',
     role: 'Programmer Analyst',
